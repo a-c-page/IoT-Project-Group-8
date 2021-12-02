@@ -42,9 +42,9 @@ def mode(request):
 
 
 def home(request):
-    x = requests.get('http://localhost:8000/state/')
+    x = requests.get('https://iotprojecttam.herokuapp.com/state/')
     data = x.json()
-    y = requests.get('http://localhost:8000/mode/')
+    y = requests.get('https://iotprojecttam.herokuapp.com/mode/')
     tempData = y.json()
     currentState = data['light_1'] # Get the latest data
     currentMode = tempData['mode'] # Get the latest mode
