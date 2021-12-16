@@ -17,8 +17,8 @@ NodeMCU/Arduino then makes a GET request from the Heroku API to change the light
 
 2. Source Code
 
-        The source code for our project is located in two folders. Folder 1 (titled Arduino Code) is where all of our Arduino source code, which controls 
-the Node MCU and lights. Folder 2 (titled Django API Code) is where all of the code related to our Django server and API.
+        The source code for our project is located in two folders. Folder 1 (titled Arduino Code) is where all of our Arduino source code, which 
+controls the Node MCU and lights. Folder 2 (titled Django API Code) is where all of the code related to our Django server and API.
         
 3. Report Files
          The rest of the repository is comprised of project report files, including:
