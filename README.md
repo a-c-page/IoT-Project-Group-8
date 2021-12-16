@@ -25,5 +25,6 @@ The rest of the repository is comprised of project report files, including:
          - Deployment Decisions.pdf  
          - Light Demo.MOV  
          - Project Design and Architecture.pdf  
-         - UI TESTING & TEST CASES.pdf  
+         - UI TESTING & TEST CASES.pdf 
+         
           
