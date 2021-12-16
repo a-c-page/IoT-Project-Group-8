@@ -20,10 +20,10 @@ The source code for our project is located in two folders. Folder 1 (titled Ardu
 controls the Node MCU and lights. Folder 2 (titled Django API Code) is where all of the code related to our Django server and API.
         
 3. Report Files:   
-         The rest of the repository is comprised of project report files, including:
-                      - Architectural Design Decisions.pdf
-                      - Deployment Decisions.pdf
-                      - Light Demo.MOV
-                      - Project Design and Architecture.pdf
-                      - UI TESTING & TEST CASES.pdf
+The rest of the repository is comprised of project report files, including:  
+         - Architectural Design Decisions.pdf 
+         - Deployment Decisions.pdf 
+         - Light Demo.MOV 
+         - Project Design and Architecture.pdf 
+         - UI TESTING & TEST CASES.pdf 
           
