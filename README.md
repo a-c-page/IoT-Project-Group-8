@@ -22,8 +22,8 @@ controls the Node MCU and lights. Folder 2 (titled Django API Code) is where all
 3. Report Files:   
 The rest of the repository is comprised of project report files, including:  
          - Architectural Design Decisions.pdf 
-         - Deployment Decisions.pdf 
-         - Light Demo.MOV 
-         - Project Design and Architecture.pdf 
-         - UI TESTING & TEST CASES.pdf 
+         - Deployment Decisions.pdf  
+         - Light Demo.MOV  
+         - Project Design and Architecture.pdf  
+         - UI TESTING & TEST CASES.pdf  
           
